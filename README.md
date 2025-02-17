@@ -71,7 +71,3 @@ Submit a pull request.
 🛡️ License
 
 This project is licensed under the MIT License.
-
-📬 Contact
-
-For any queries, reach out at: [nutriboxfit123@gmail.com](mailto:nutriboxfit123@gmail.com)
